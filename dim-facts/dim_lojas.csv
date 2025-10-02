@@ -1,0 +1,100 @@
+CNPJ,NOME_LOJA,OPERADORA,TIPO_LOJA,CIDADE,ESTADO,REGIAO,KA_MANAGER,REPRESENTANTE_VENDAS
+55.666.777/0001-00,Vivo Shopping Morumbi,Vivo,Loja Própria,São Paulo,SP,Sudeste,Ana Souza,Carlos Pereira
+55.666.777/0001-01,Claro Shopping Eldorado,Claro,Loja Própria,São Paulo,SP,Sudeste,Bruno Lima,Fernanda Costa
+55.666.777/0001-02,Vivo Barra Shopping,Vivo,Franquia,Rio de Janeiro,RJ,Sudeste,Ana Souza,Gustavo Martins
+55.666.777/0001-03,Claro Shopping Leblon,Claro,Loja Própria,Rio de Janeiro,RJ,Sudeste,Bruno Lima,Carlos Pereira
+55.666.777/0001-04,Vivo Pátio Savassi,Vivo,Loja Própria,Belo Horizonte,MG,Sudeste,Ana Souza,Fernanda Costa
+55.666.777/0001-05,Claro Boulevard Shopping,Claro,Franquia,Belo Horizonte,MG,Sudeste,Bruno Lima,Gustavo Martins
+55.666.777/0001-06,Vivo Shopping Recife,Vivo,Loja Própria,Recife,PE,Nordeste,Ana Souza,Carlos Pereira
+55.666.777/0001-07,Claro Shopping da Bahia,Claro,Loja Própria,Salvador,BA,Nordeste,Bruno Lima,Fernanda Costa
+55.666.777/0001-08,Vivo ParkShopping,Vivo,Franquia,Brasília,DF,Centro-Oeste,Ana Souza,Gustavo Martins
+55.666.777/0001-09,Claro Shopping Flamboyant,Claro,Loja Própria,Goiânia,GO,Centro-Oeste,Bruno Lima,Carlos Pereira
+55.666.777/0001-10,Vivo Shopping Mueller,Vivo,Loja Própria,Curitiba,PR,Sul,Ana Souza,Fernanda Costa
+55.666.777/0001-11,Claro Barra Sul,Claro,Franquia,Porto Alegre,RS,Sul,Bruno Lima,Gustavo Martins
+84.917.908/0001-16,Claro Shopping São Paulo 0,Claro,Loja Própria,São Paulo,SP,Sudeste,Diego Alves,Igor Rocha
+57.170.924/0001-61,Vivo Shopping Porto Velho 1,Vivo,Franquia,Porto Velho,RO,Norte,Diego Alves,Helena Santos
+72.240.302/0001-89,Vivo Shopping Fortaleza 2,Vivo,Loja Própria,Fortaleza,CE,Nordeste,Ana Souza,Igor Rocha
+33.676.455/0001-55,Claro Shopping Manaus 3,Claro,Franquia,Manaus,AM,Norte,Diego Alves,Gustavo Martins
+34.848.334/0001-52,Claro Shopping Recife 4,Claro,Franquia,Recife,PE,Nordeste,Ana Souza,Helena Santos
+26.329.418/0001-62,Claro Shopping Florianópolis 5,Claro,Franquia,Florianópolis,SC,Sul,Bruno Lima,Helena Santos
+95.993.235/0001-57,Claro Shopping Goiânia 6,Claro,Loja Própria,Goiânia,GO,Centro-Oeste,Bruno Lima,Helena Santos
+51.735.450/0001-27,Vivo Shopping Porto Velho 7,Vivo,Loja Própria,Porto Velho,RO,Norte,Carla Mendes,Carlos Pereira
+68.294.747/0001-22,Vivo Shopping Curitiba 8,Vivo,Franquia,Curitiba,PR,Sul,Carla Mendes,Fernanda Costa
+16.315.343/0001-96,Vivo Shopping Goiânia 9,Vivo,Loja Própria,Goiânia,GO,Centro-Oeste,Carla Mendes,Fernanda Costa
+53.389.322/0001-95,Claro Shopping Porto Velho 10,Claro,Franquia,Porto Velho,RO,Norte,Diego Alves,Fernanda Costa
+16.373.787/0001-81,Vivo Shopping Belo Horizonte 11,Vivo,Loja Própria,Belo Horizonte,MG,Sudeste,Diego Alves,Gustavo Martins
+60.672.231/0001-89,Vivo Shopping Belo Horizonte 12,Vivo,Loja Própria,Belo Horizonte,MG,Sudeste,Carla Mendes,Igor Rocha
+70.574.248/0001-34,Vivo Shopping São Paulo 13,Vivo,Franquia,São Paulo,SP,Sudeste,Ana Souza,Fernanda Costa
+94.613.599/0001-18,Claro Shopping Porto Velho 14,Claro,Loja Própria,Porto Velho,RO,Norte,Bruno Lima,Fernanda Costa
+74.829.418/0001-15,Claro Shopping Manaus 15,Claro,Loja Própria,Manaus,AM,Norte,Carla Mendes,Fernanda Costa
+75.484.704/0001-32,Claro Shopping Manaus 16,Claro,Franquia,Manaus,AM,Norte,Diego Alves,Carlos Pereira
+87.555.265/0001-70,Claro Shopping Belém 17,Claro,Loja Própria,Belém,PA,Norte,Diego Alves,Helena Santos
+31.435.238/0001-95,Claro Shopping Porto Alegre 18,Claro,Franquia,Porto Alegre,RS,Sul,Ana Souza,Fernanda Costa
+88.471.529/0001-45,Vivo Shopping São Paulo 19,Vivo,Franquia,São Paulo,SP,Sudeste,Bruno Lima,Fernanda Costa
+69.868.517/0001-68,Claro Shopping Recife 20,Claro,Loja Própria,Recife,PE,Nordeste,Diego Alves,Fernanda Costa
+55.231.713/0001-88,Vivo Shopping Manaus 21,Vivo,Loja Própria,Manaus,AM,Norte,Bruno Lima,Helena Santos
+61.207.314/0001-25,Claro Shopping Belo Horizonte 22,Claro,Franquia,Belo Horizonte,MG,Sudeste,Diego Alves,Gustavo Martins
+23.364.504/0001-40,Claro Shopping Goiânia 23,Claro,Franquia,Goiânia,GO,Centro-Oeste,Ana Souza,Helena Santos
+39.790.476/0001-43,Claro Shopping Belo Horizonte 24,Claro,Loja Própria,Belo Horizonte,MG,Sudeste,Carla Mendes,Gustavo Martins
+74.400.454/0001-37,Vivo Shopping Porto Velho 25,Vivo,Loja Própria,Porto Velho,RO,Norte,Ana Souza,Igor Rocha
+62.672.109/0001-77,Claro Shopping Recife 26,Claro,Franquia,Recife,PE,Nordeste,Diego Alves,Fernanda Costa
+26.198.509/0001-69,Claro Shopping Brasília 27,Claro,Franquia,Brasília,DF,Centro-Oeste,Ana Souza,Gustavo Martins
+71.837.272/0001-52,Claro Shopping Salvador 28,Claro,Franquia,Salvador,BA,Nordeste,Ana Souza,Helena Santos
+33.633.783/0001-85,Claro Shopping Brasília 29,Claro,Franquia,Brasília,DF,Centro-Oeste,Ana Souza,Carlos Pereira
+44.140.454/0001-72,Vivo Shopping Florianópolis 30,Vivo,Loja Própria,Florianópolis,SC,Sul,Ana Souza,Carlos Pereira
+64.967.118/0001-91,Vivo Shopping Cuiabá 31,Vivo,Loja Própria,Cuiabá,MT,Centro-Oeste,Ana Souza,Helena Santos
+78.635.772/0001-38,Claro Shopping Recife 32,Claro,Franquia,Recife,PE,Nordeste,Ana Souza,Igor Rocha
+87.827.962/0001-14,Claro Shopping Manaus 33,Claro,Franquia,Manaus,AM,Norte,Ana Souza,Helena Santos
+41.987.651/0001-51,Claro Shopping Belo Horizonte 34,Claro,Loja Própria,Belo Horizonte,MG,Sudeste,Diego Alves,Carlos Pereira
+42.547.956/0001-69,Claro Shopping Brasília 35,Claro,Loja Própria,Brasília,DF,Centro-Oeste,Diego Alves,Carlos Pereira
+35.729.905/0001-20,Vivo Shopping Belo Horizonte 36,Vivo,Loja Própria,Belo Horizonte,MG,Sudeste,Diego Alves,Helena Santos
+80.750.220/0001-57,Vivo Shopping Brasília 37,Vivo,Loja Própria,Brasília,DF,Centro-Oeste,Bruno Lima,Igor Rocha
+50.292.587/0001-73,Claro Shopping Cuiabá 38,Claro,Loja Própria,Cuiabá,MT,Centro-Oeste,Ana Souza,Gustavo Martins
+44.367.931/0001-16,Vivo Shopping Cuiabá 39,Vivo,Loja Própria,Cuiabá,MT,Centro-Oeste,Bruno Lima,Gustavo Martins
+24.403.712/0001-37,Claro Shopping Porto Velho 40,Claro,Franquia,Porto Velho,RO,Norte,Bruno Lima,Carlos Pereira
+63.791.862/0001-28,Claro Shopping São Paulo 41,Claro,Franquia,São Paulo,SP,Sudeste,Carla Mendes,Gustavo Martins
+66.427.606/0001-60,Claro Shopping Goiânia 42,Claro,Franquia,Goiânia,GO,Centro-Oeste,Bruno Lima,Fernanda Costa
+93.452.558/0001-15,Claro Shopping Florianópolis 43,Claro,Loja Própria,Florianópolis,SC,Sul,Bruno Lima,Igor Rocha
+68.737.475/0001-14,Vivo Shopping Goiânia 44,Vivo,Loja Própria,Goiânia,GO,Centro-Oeste,Carla Mendes,Fernanda Costa
+90.426.375/0001-86,Vivo Shopping Recife 45,Vivo,Loja Própria,Recife,PE,Nordeste,Diego Alves,Carlos Pereira
+82.560.732/0001-50,Claro Shopping Florianópolis 46,Claro,Loja Própria,Florianópolis,SC,Sul,Diego Alves,Gustavo Martins
+19.901.488/0001-73,Vivo Shopping Belo Horizonte 47,Vivo,Franquia,Belo Horizonte,MG,Sudeste,Bruno Lima,Helena Santos
+91.711.564/0001-40,Claro Shopping Rio de Janeiro 48,Claro,Loja Própria,Rio de Janeiro,RJ,Sudeste,Carla Mendes,Fernanda Costa
+57.687.439/0001-67,Vivo Shopping Brasília 49,Vivo,Loja Própria,Brasília,DF,Centro-Oeste,Carla Mendes,Fernanda Costa
+71.270.216/0001-20,Claro Shopping Goiânia 50,Claro,Franquia,Goiânia,GO,Centro-Oeste,Bruno Lima,Gustavo Martins
+20.724.260/0001-38,Claro Shopping Florianópolis 51,Claro,Franquia,Florianópolis,SC,Sul,Carla Mendes,Helena Santos
+39.466.929/0001-96,Vivo Shopping São Paulo 52,Vivo,Franquia,São Paulo,SP,Sudeste,Diego Alves,Carlos Pereira
+95.959.560/0001-73,Claro Shopping Porto Alegre 53,Claro,Franquia,Porto Alegre,RS,Sul,Carla Mendes,Gustavo Martins
+51.415.571/0001-44,Claro Shopping Florianópolis 54,Claro,Franquia,Florianópolis,SC,Sul,Bruno Lima,Helena Santos
+50.540.763/0001-81,Claro Shopping Brasília 55,Claro,Franquia,Brasília,DF,Centro-Oeste,Carla Mendes,Igor Rocha
+64.942.967/0001-11,Claro Shopping São Paulo 56,Claro,Franquia,São Paulo,SP,Sudeste,Ana Souza,Fernanda Costa
+70.137.591/0001-76,Claro Shopping Cuiabá 57,Claro,Franquia,Cuiabá,MT,Centro-Oeste,Carla Mendes,Gustavo Martins
+10.827.130/0001-66,Vivo Shopping Belém 58,Vivo,Loja Própria,Belém,PA,Norte,Carla Mendes,Igor Rocha
+66.907.844/0001-82,Vivo Shopping Porto Velho 59,Vivo,Franquia,Porto Velho,RO,Norte,Carla Mendes,Fernanda Costa
+35.820.924/0001-51,Claro Shopping Belo Horizonte 60,Claro,Loja Própria,Belo Horizonte,MG,Sudeste,Bruno Lima,Gustavo Martins
+57.143.149/0001-63,Vivo Shopping Belém 61,Vivo,Franquia,Belém,PA,Norte,Bruno Lima,Igor Rocha
+28.937.430/0001-32,Vivo Shopping Salvador 62,Vivo,Loja Própria,Salvador,BA,Nordeste,Diego Alves,Igor Rocha
+12.215.190/0001-48,Vivo Shopping Brasília 63,Vivo,Loja Própria,Brasília,DF,Centro-Oeste,Ana Souza,Helena Santos
+63.902.544/0001-52,Vivo Shopping Rio de Janeiro 64,Vivo,Franquia,Rio de Janeiro,RJ,Sudeste,Diego Alves,Igor Rocha
+22.959.301/0001-19,Vivo Shopping Salvador 65,Vivo,Loja Própria,Salvador,BA,Nordeste,Ana Souza,Carlos Pereira
+46.260.899/0001-82,Vivo Shopping Curitiba 66,Vivo,Loja Própria,Curitiba,PR,Sul,Bruno Lima,Fernanda Costa
+75.381.304/0001-27,Claro Shopping Curitiba 67,Claro,Loja Própria,Curitiba,PR,Sul,Carla Mendes,Helena Santos
+90.396.352/0001-40,Claro Shopping Cuiabá 68,Claro,Franquia,Cuiabá,MT,Centro-Oeste,Carla Mendes,Carlos Pereira
+97.252.727/0001-14,Claro Shopping Salvador 69,Claro,Franquia,Salvador,BA,Nordeste,Carla Mendes,Helena Santos
+72.489.915/0001-48,Claro Shopping Porto Velho 70,Claro,Franquia,Porto Velho,RO,Norte,Diego Alves,Gustavo Martins
+34.888.307/0001-38,Claro Shopping Brasília 71,Claro,Loja Própria,Brasília,DF,Centro-Oeste,Bruno Lima,Fernanda Costa
+76.901.174/0001-45,Vivo Shopping Cuiabá 72,Vivo,Franquia,Cuiabá,MT,Centro-Oeste,Ana Souza,Helena Santos
+88.214.124/0001-39,Vivo Shopping Recife 73,Vivo,Franquia,Recife,PE,Nordeste,Diego Alves,Igor Rocha
+57.170.645/0001-31,Vivo Shopping São Paulo 74,Vivo,Loja Própria,São Paulo,SP,Sudeste,Carla Mendes,Igor Rocha
+14.503.463/0001-48,Vivo Shopping Salvador 75,Vivo,Loja Própria,Salvador,BA,Nordeste,Bruno Lima,Carlos Pereira
+36.216.259/0001-17,Vivo Shopping Porto Velho 76,Vivo,Franquia,Porto Velho,RO,Norte,Ana Souza,Carlos Pereira
+49.767.539/0001-22,Claro Shopping São Paulo 77,Claro,Franquia,São Paulo,SP,Sudeste,Bruno Lima,Helena Santos
+70.717.294/0001-57,Vivo Shopping Cuiabá 78,Vivo,Loja Própria,Cuiabá,MT,Centro-Oeste,Ana Souza,Carlos Pereira
+34.172.502/0001-38,Claro Shopping Cuiabá 79,Claro,Franquia,Cuiabá,MT,Centro-Oeste,Bruno Lima,Igor Rocha
+82.978.940/0001-34,Claro Shopping Brasília 80,Claro,Franquia,Brasília,DF,Centro-Oeste,Diego Alves,Helena Santos
+93.995.333/0001-64,Vivo Shopping Manaus 81,Vivo,Loja Própria,Manaus,AM,Norte,Diego Alves,Fernanda Costa
+42.354.377/0001-66,Vivo Shopping Porto Velho 82,Vivo,Loja Própria,Porto Velho,RO,Norte,Ana Souza,Carlos Pereira
+38.260.360/0001-11,Vivo Shopping Florianópolis 83,Vivo,Franquia,Florianópolis,SC,Sul,Ana Souza,Helena Santos
+58.921.136/0001-48,Vivo Shopping Porto Velho 84,Vivo,Franquia,Porto Velho,RO,Norte,Ana Souza,Fernanda Costa
+62.961.372/0001-82,Vivo Shopping Belo Horizonte 85,Vivo,Loja Própria,Belo Horizonte,MG,Sudeste,Diego Alves,Gustavo Martins
+97.710.598/0001-94,Claro Shopping Belo Horizonte 86,Claro,Loja Própria,Belo Horizonte,MG,Sudeste,Diego Alves,Gustavo Martins
