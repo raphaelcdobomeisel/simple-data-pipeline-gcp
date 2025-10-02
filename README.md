@@ -1,2 +1,13 @@
 # simple-data-pipeline-gcp
-A comprehensive guide detailing the end-to-end process for building strategic Sales Ops dashboards in Looker Studio. This project covers data ingestion into Google Cloud Storage (GCS), transformation with BigQuery, and the design of key dashboards to drive data-driven decision-making for the Oppo Sales Operations team.
+Sales Operations Dashboard Implementation
+This repository presents the complete implementation plan for developing a suite of Sales Operations dashboards tailored for the Oppo Sales team. The project focuses on leveraging the Google Cloud Platform (GCP) ecosystem to transform raw sales data into actionable business intelligence.
+
+Key Project Stages:
+
+Data Engineering: Setup and loading of raw data into GCS and structured tables in BigQuery.
+
+Dashboard Design: Wireframing and design of three strategic dashboards: Executive Overview, Product/Competitor Analysis, and Field Performance.
+
+Visualization: Detailed instructions for connecting BigQuery data to Looker Studio and building interactive visualizations.
+
+Our goal is to empower the Sales Ops team with clear, real-time insights to monitor KPIs, analyze performance trends, and measure market share.
